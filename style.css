@@ -1,0 +1,28 @@
+h1 {
+    color: rgb(221, 94, 21);
+    font-weight: bold;
+}
+
+
+.header{
+   background-color: black;
+   display:flex;
+   justify-content:space-between;
+}
+.grid{
+    display:flex;
+    flex-wrap:wrap;
+    align-items:baseline;
+    justify-content:space-between;
+    background-color: rgb(216, 107, 107)
+}
+
+#Item6{
+color: rgb(255, 0, 0);
+background-color: saddlebrown;
+}
+
+.footer{
+    display:flex;
+    justify-content:flex-end;
+}
